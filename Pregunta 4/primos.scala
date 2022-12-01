@@ -1,3 +1,4 @@
+//UNIV.LEONEL ALVARO CHAMACA LIMA
 import java.util.Scanner
 import scala.collection.mutable.ListBuffer
 object primo {
