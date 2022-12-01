@@ -1,5 +1,5 @@
 object Main extends App{
-    //UNIV. MACUSAYA AGUILAR YURIKA
+    //UNIV. LEONEL ALVARO CHAMACA LIMA
 	//PREGUNTA 1
     //FIBONACCI RECURSIVO
     def fiboRecursive(n: Int): Int = {
